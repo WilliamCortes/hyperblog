@@ -1,16 +1,9 @@
 body
 {
-    color: #333;
     text-align: center;
-<<<<<<< HEAD
     font-family: Arial;
-    font-size: 16px ;
+    font-size: 16px;
     margin: 0;          
-=======
-    font-family: "cursive";
-    font-size: 25px ;
-    margin: 10;          
->>>>>>> cabecera
     padding: 0;
 }
 
@@ -34,7 +27,7 @@ body
 #container
 {
     width: 70%;
-    color: darkmagenta;
+    color: red;
     padding: 10s;
     text-align: left;
     border: 10px solid #DDD;
