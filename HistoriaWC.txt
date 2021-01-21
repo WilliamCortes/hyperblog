@@ -2,6 +2,7 @@ Esta es la historia de William Cortes
 
 William Cortes tiene 37 años y nacio en Cachipay Colombia
 
-Alfcor es también William pero para este ejemplo utiliza otro usuario
+Alfcor es también William pero para este ejemplo utiliza otro usuario y va a ayudar como open source.
+
 
 Mañana hablaremos de su vida laboral.
